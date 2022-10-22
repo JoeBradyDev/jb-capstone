@@ -231,7 +231,7 @@ For the "Price Prediction" chart, the user can toggle whether to display the dat
 
 <br />
 
-Data points are removed by clicking the "Actual" and "Predicted" items in the legend. Clicking the item in the legend once will check it off and remove the regression or data points from the chart. Clicking again will bring them back.
+Data points are removed by clicking the "Actual" or "Predicted" items in the legend. Clicking the item in the legend once will check it off and remove the regression or data points from the chart. Clicking again will bring them back.
 
 ![Regression Chart Legend](docs/regression-legend.png)
 
