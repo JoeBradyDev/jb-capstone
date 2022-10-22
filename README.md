@@ -18,6 +18,7 @@ The project has one prescriptive method, which is a scatter plot with a regressi
 for the sales price based on the mileage.
 
 ## Environment & Architecture
+### Technology Used
 This project is a web application written with the following technologies:
  
 * JavaScript/TypeScript
@@ -28,7 +29,13 @@ This project is a web application written with the following technologies:
 * [Tailwind CSS](https://tailwindcss.com/) (_Utility-first CSS framework_)
 * [Chart.js](https://www.chartjs.org/) (JavaScript charting libr /ary)
 
+### Environment Used
 The environment used and target platform for this application is Microsoft Windows.
+
+### Data Format Used
+The storage format that is used is CSV, which contains all the data points. The CSV is read into the system, cleaned, and unit conversions are done, as necessary. This dataset was found on Kaggle.com at the following url:
+
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 ## Prerequisites
 Before you can install and run the web application, you must first install the following:
