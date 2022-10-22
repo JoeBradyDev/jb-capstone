@@ -22,11 +22,11 @@ This project is a web application written with the following technologies:
  
 * JavaScript/TypeScript
 * Node.js v16.13.2 LTS
-* TensorFlow.js (_Node.js libr /ary used for machine learning_)
-* React.js (_JavaScript libr /ary for building user interfaces_)
-* Next.js (_Full-stack React.js framework_)
-* Tailwind CSS (_Utility-first CSS framework_)
-* Chart.js (JavaScript charting libr /ary)
+* [TensorFlow.js](https://www.tensorflow.org/js) (_Node.js libr /ary used for machine learning_)
+* [React.js](https://reactjs.org/) (_JavaScript libr /ary for building user interfaces_)
+* [Next.js](https://nextjs.org/) (_Full-stack React.js framework_)
+* [Tailwind CSS](https://tailwindcss.com/) (_Utility-first CSS framework_)
+* [Chart.js](https://www.chartjs.org/) (JavaScript charting libr /ary)
 
 The environment used and target platform for this application is Microsoft Windows.
 
@@ -34,7 +34,7 @@ The environment used and target platform for this application is Microsoft Windo
 Before you can install and run the web application, you must first install the following:
 
 * Node.js 16
-* Yarn 1
+* [Yarn 1](https://yarnpkg.com/)
 
 ### Install Node.js 16
 Download Node.js 16 LTS installer from this website: https://nodejs.org/en/
