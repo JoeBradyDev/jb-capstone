@@ -23,11 +23,12 @@ This project is a web application written with the following technologies:
  
 * JavaScript/TypeScript
 * Node.js v16.13.2 LTS
-* [TensorFlow.js](https://www.tensorflow.org/js) (_Node.js libr /ary used for machine learning_)
-* [React.js](https://reactjs.org/) (_JavaScript libr /ary for building user interfaces_)
+* [TensorFlow.js](https://www.tensorflow.org/js) (_Node.js library used for machine learning
+* 
+* [React.js](https://reactjs.org/) (_JavaScript library for building user interfaces_)
 * [Next.js](https://nextjs.org/) (_Full-stack React.js framework_)
 * [Tailwind CSS](https://tailwindcss.com/) (_Utility-first CSS framework_)
-* [Chart.js](https://www.chartjs.org/) (JavaScript charting libr /ary)
+* [Chart.js](https://www.chartjs.org/) (JavaScript charting library)
 
 ### Environment Used
 The environment used and target platform for this application is Microsoft Windows.
@@ -44,7 +45,7 @@ Before you can install and run the web application, you must first install the f
 * [Yarn 1](https://yarnpkg.com/)
 
 ### Install Node.js 16
-Download Node.js 16 LTS installer from this website: https://nodejs.org/en/
+Install Node by downloading and running the Node.js 16 LTS installer from this website: https://nodejs.org/en/
 
 Once installed, confirm that the correct version of Node is installed by running the following command in a terminal/command prompt window:
 
@@ -72,7 +73,7 @@ yarn --version
 After verifying that Node.js and Yarn are installed, you are ready to install the application. In a terminal window, navigate to a folder where you'd like to install the application and clone this repository:
 
 ```bash
-git clone https://github.com/Joebr /adyDev/jb-capstone.git
+git clone https://github.com/JoebradyDev/jb-capstone.git
 ```
 
 ### Install Application
@@ -98,7 +99,7 @@ yarn dev
 **Known Bug**: Note that you **cannot** use _"yarn start"_ or _"npm start"_ to start the application. This will result in the charts not loading, so you must use the _"yarn dev"_ command as mentioned above.
 
 ### Open Application
-After the server has been started, you can use a br /owser navigate to the following location and view the application:
+After the server has been started, you can use a browser navigate to the following location and view the application:
 
 http://localhost:3000
 
