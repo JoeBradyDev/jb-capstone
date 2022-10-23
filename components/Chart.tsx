@@ -16,7 +16,7 @@ import {
   ChartOptions as ICJSChartOptions,
 } from "chart.js";
 import { Chart as RCJS2Chart, Line, Scatter } from "react-chartjs-2";
-import { ActionButtons, IActionButton } from "../ActionButtons";
+import { ActionButtons, IActionButton } from "./ActionButtons";
 import ChartDataLabels from "chartjs-plugin-datalabels";
 
 ChartJS.register(

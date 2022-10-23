@@ -28,7 +28,7 @@ This project is a web application written with the following technologies:
 * [React.js](https://reactjs.org/) (_JavaScript library for building user interfaces_)
 * [Next.js](https://nextjs.org/) (_Full-stack React.js framework_)
 * [Tailwind CSS](https://tailwindcss.com/) (_Utility-first CSS framework_)
-* [Chart.js](https://www.chartjs.org/) (JavaScript charting library)
+* [Chart.js](https://www.chartjs.org/) (_JavaScript charting library_)
 
 ### Environment Used
 The environment used and target platform for this application is Microsoft Windows.
