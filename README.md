@@ -24,7 +24,6 @@ This project is a web application written with the following technologies:
 * JavaScript/TypeScript
 * Node.js v16.13.2 LTS
 * [TensorFlow.js](https://www.tensorflow.org/js) (_Node.js library used for machine learning
-* 
 * [React.js](https://reactjs.org/) (_JavaScript library for building user interfaces_)
 * [Next.js](https://nextjs.org/) (_Full-stack React.js framework_)
 * [Tailwind CSS](https://tailwindcss.com/) (_Utility-first CSS framework_)
