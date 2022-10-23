@@ -109,7 +109,7 @@ http://localhost:3000
 ### Logging In and Logging Out
 
 #### How to Sign In
-After starting the server and navigating to http://localhost:3000, you will be brought a login page. Please enter the following credentials to log into the application:
+After starting the server and navigating to http://localhost:3000, you will be brought to a login page. Please enter the following credentials to log into the application:
 
 * _Username_: "john.doe"
 * _Password_: "wgu1234$"
