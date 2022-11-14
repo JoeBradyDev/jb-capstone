@@ -239,3 +239,7 @@ Data points are removed by clicking the "Actual" or "Predicted" items in the leg
 This is how the "Price Prediction" chart looks when the "Actual" data points have been hidden.
 
 ![Regression Chart Without Data Points](docs/regression-no-points.png)
+
+## Known Issues
+* This application can only be run in development mode due to a bug involving the integration of Chart.js 3 with Next.js.
+* It would be more appropriate to use logarithmic regression for this dataset, but linear regression was used because it is simpler and was sufficient for the project requirements.
