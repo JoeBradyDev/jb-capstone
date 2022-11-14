@@ -1,5 +1,6 @@
 # Car Sales Price Prediction Engine
 ## Overview
+The following project created as part of Joe Brady's capstone for his Bachelor's Degree in Computer Science at Western Governor's University (WGU).
 
 ### Topic and Description
 _Car Sales Price Prediction Engine_ is a web application that will help a fictional car sales company set prices for the used vehicles they have acquired and wish to sell. The web application uses machine learning and a predictive algorithm to estimate the sales price of a given car based on the mileage. This includes descriptive methods (graphs) to help the client understand the data and a predictive method (a linear regression graph) to help them make educated price-setting decisions.
